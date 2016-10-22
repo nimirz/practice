@@ -1,9 +1,1 @@
-Hi
-
-This is a test document woo!
-
-hey i changed this document
-
-
-
-one more lil change hehe
+skip staging area
